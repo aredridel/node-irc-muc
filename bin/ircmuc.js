@@ -1,6 +1,6 @@
 var xmpp = require('node-xmpp')
 var MUC = require('xmpp-muc')
-var irc = require('irc')
+var irc = require('ircd')
 var util
 try {
 	util = require('util')
